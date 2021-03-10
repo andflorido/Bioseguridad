@@ -1,0 +1,54 @@
+*{
+margin: 0;
+padding: 0;
+}
+.menu{
+    background-color: green;
+    
+}
+
+.bio{
+    color: blue;
+}
+
+.navbar-collapse{
+   flex-grow: 0;
+    text-align: end;
+}
+
+
+.listMenu{
+    display: flex;
+    justify-content: end;
+}
+
+.colores{
+    color: indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carouselStyle{
+height: 500px;
+
+}
+.per {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.estetica{
+    color:white;
+
+}
+.bio{
+    color: rgb(10, 97, 10);
+    text-align: justify;
+}
+.bio1{
+    color: grey;
+}
+.logo{
+    width: 10;
+    height: 10;
+}
