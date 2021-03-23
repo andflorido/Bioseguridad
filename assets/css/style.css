@@ -6,6 +6,21 @@ padding: 0;
     background-color: green;
     
 }
+.active{
+font-family: cursive;
+border-radius: 2px;
+border: 2px solid rgb(94, 60, 60);
+background-color: rgb(115, 22, 158);
+ }
+ 
+.active:hover{
+    color: #1883ba;
+    background-color: #ffffff70;
+  }
+
+.menu img {
+    background-color: black;
+}
 
 .bio{
     color: blue;
@@ -45,12 +60,23 @@ height: 500px;
     color: rgb(10, 97, 10);
     text-align: justify;
 }
+
+.bio strong{
+    font-family: cursive;
+}
+
 .bio1{
     color: grey;
 }
+.lead strong{
+font-family: cursive;
+color: rgb(161, 24, 24);
+}
+
 .logo{
     width: 10;
     height: 10;
+    border: 0;
 }
 
 .what{
@@ -61,5 +87,9 @@ height: 500px;
 }
 .what1{
 
+    color: black;
+    
+}
+.final {
     color: black;
 }
